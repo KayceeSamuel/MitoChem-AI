@@ -20,12 +20,12 @@ The base model has a strong bias for defining the abbreviation $\text{MPC}$ as t
 
 ### 1. Model Weights (Hugging Face Hub)
 The LoRA adapter weights and tokenizer configuration are hosted here:
-`[HUGGING FACE REPO LINK HERE: your-username/MitoChem-AI]`
+`https://huggingface.co/kayceesamuel/Mitochem_AI`
 
 ### 2. Inference API (Recommended Access)
 You can use the model directly via the **Hugging Face Inference $\text{API}$ endpoint** that automatically loads when you upload your model and weights.
 
-* **API URL:** `https://api-inference.huggingface.co/models/[your-username]/MitoChem-AI`
+* **API URL:** `https://huggingface.co/kayceesamuel/Mitochem_AI`
 * **Quick Start:** The simplest way to use the model without coding is through the **Inference Widget** directly on the Hugging Face model page.
 
 ## 💡 Optimal Usage Guide (How to Get the Best Results)
